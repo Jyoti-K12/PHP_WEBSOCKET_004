@@ -1,0 +1,3 @@
+STEP-1: Uncomment socket extension in php.ini for enable socket and restart server (xampp).
+STEP-2: Create connection with socket from server and client
+STEP-3: Run Socket with Command: `php -f server_file.php`
